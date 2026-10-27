@@ -8,25 +8,21 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🙋‍♂️ Hi, I'm Rust
-- 🎓 AI/ML undergrad
-- 🤖 Aspiring AI/ML researcher
-- 🌱 Currently learning Machine Learning, and AI
-- 🔭 Building projects to turn what I learn into real, working code
-- 🇩🇪 Planning to study in Germany (target: 2027)
-- 📫 Reach me at: rust.spielberg@gmail.com
+## About
+* **Identity:** Sohan Parate (Rust)
+* **Status:** AI/ML Undergrad & Aspiring AI/ML Researcher
+* **Focus:** Turning theoretical machine learning into production-grade systems
+* **Trajectory:** Higher studies in Germany (Target: 2027)
+* **Contact:** rust.spielberg@gmail.com
 
+---
 
-## 🧠 My Focus Areas
-- 🐍 Python programming
-- 🤖 Machine Learning fundamentals
-- 🧠 Artificial Intelligence/ Machine Learning Research
-- 📊 Open source Contribution
-- 🧮 Math for ML (linear algebra, probability, statistics)
-- 🛠️ Building hands-on projects
-- 🌍 Preparing for higher studies in Germany
-
+## Technical Focus
+* **Programming:** Python, C, Data Science Stack (NumPy, Pandas, Matplotlib)
+* **Core Domains:** Artificial Intelligence, Machine Learning Research, Open Source
+* **Mathematical Foundations:** Linear Algebra, Probability, Statistics
+* **Execution:** Building hands-on software & autonomous tools
+  
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
