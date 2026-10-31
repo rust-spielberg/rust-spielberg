@@ -58,18 +58,20 @@
 <br/>
 
 ## 🔗 Connect with Me
-<p align="center">
-  [![Linkedin](https://bentos.jkominovic.dev/api/v1/generic-card?icon=Rust&subtitle=Linkedin&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=Rust&subtitle=Linkedin&size=square)
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/RustSpielberg">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:rust.spielberg@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    [![Linkedin](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsohan-parate-536972411%2F&subtitle=Linkedin&size=square)](https://www.linkedin.com/in/sohan-parate-536972411/)
+    <a href="https://instagram.com/nirmalkharal" target="blank">
+      <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fnirmalkharal%2F&subtitle=@nirmalkharal&size=square" width="150" />
+    </a>
+    <a href="https://linkedin.com/in/nirmal-kharal-37659a2a1" target="blank">
+      <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnirmal-kharal-37659a2a1%2F&subtitle=@Nirmal+Kharal&size=square" width="150" />
+    </a>
+    <a href="https://nirmalkharal.dev/" target="blank">
+      <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siaboutdotme&subtitle=Portfolio&size=square" width="150" />
+    </a>
+  </div>
 
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
