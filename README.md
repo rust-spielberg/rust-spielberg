@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,html,css&theme=dark" />
   
   #### ⚙️ Backend & Database
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,postgres,qdrant,mysql,prisma,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,postgres,mysql,prisma,supabase&theme=dark" />
   
 
   
