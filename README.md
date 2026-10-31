@@ -4,6 +4,10 @@
   <a href="https://komarev.com/ghpvc/?username=rust-spielberg">
     <img src="https://komarev.com/ghpvc/?username=rust-spielberg&label=Profile%20views&color=00FFFF&style=flat-square" alt="rust-spielberg's profile views" />
   </a>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=#C82909&center=true&vCenter=true&width=700&height=55&lines=🤖+AI+%26+Automation+Builder;🐍+Python+Developer;⚡+Clean+Code+%7C+Performance;🚀+Building+Cool+Projects)](https://git.io/typing-svg)
+
+<br/>
 </p>
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
