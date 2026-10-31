@@ -68,7 +68,7 @@
       <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsohan-parate-536972411%2F&subtitle=@SohanParate&size=square" width="150" />
     </a>
     <a href="https://www.reddit.com/user/rust_spielberg/" target="blank">
-      <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Frust_spielberg%2F&subtitle=rust.spielbergsize=square" width="150" />
+      <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Frust_spielberg%2F&subtitle=rust.spielberg&size=square" width="150" />
     </a>
   </div>
 </div>
