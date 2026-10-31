@@ -43,7 +43,8 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css&theme=dark" />
   
   #### ⚙️ Backend & Database
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,uvicorn,postgres,mysql,prisma,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma,supabase&theme=dark" />![Uvicorn](https://shields.io)
+
   
   #### 🧰 Tools & State
   <img src="https://skillicons.dev/icons?i=git,github,figma,huggingface,vscode,npm,pnpm&theme=dark" />
