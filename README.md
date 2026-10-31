@@ -4,7 +4,7 @@
   <a href="https://komarev.com/ghpvc/?username=rust-spielberg">
     <img src="https://komarev.com/ghpvc/?username=rust-spielberg&label=Profile%20views&color=00FFFF&style=flat-square" alt="rust-spielberg's profile views" />
   </a>
-
+<p align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Redaction+35&weight=700&size=32&duration=2800&pause=800&color=7D42EB&center=true&vCenter=true&width=700&height=55&lines=🤖+AI/ML+and+Software+DEV;🐍+Python+Coder;🚀+Freshmen)](https://git.io/typing-svg)
 
 <br/>
