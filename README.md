@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=rust-spielberg&label=Profile%20views&color=00FFFF&style=flat-square" alt="rust-spielberg's profile views" />
   </a>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Redaction+35&weight=700&size=32&duration=2800&pause=800&color=7D42EB&center=true&vCenter=true&width=700&height=55&lines=🤖+%26+AI/ML+and+Software+DEV;🐍+%26+Python+Coder;🚀+%26+Freshmen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Redaction+35&weight=700&size=32&duration=2800&pause=800&color=7D42EB&center=true&vCenter=true&width=700&height=55&lines=🤖+AI/ML+and+Software+DEV;🐍+Python+Coder)](https://git.io/typing-svg)
   
 <br/>
 
