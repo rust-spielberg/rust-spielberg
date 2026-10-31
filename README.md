@@ -40,22 +40,18 @@
 <div align="center">
   
   #### 🌐 Frontend
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,html,css&theme=dark" />
   
   #### ⚙️ Backend & Database
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma,supabase&theme=dark" />
-  <img src="https://shields.io" alt="Uvicorn Badge" />
-
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,postgres,qdrant,mysql,prisma,supabase&theme=dark" />
+  
 
   
   #### 🧰 Tools & State
-  <img src="https://skillicons.dev/icons?i=git,github,figma,huggingface,vscode,npm,pnpm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,apple,vscode,npm,azure,gcp&theme=dark" />
 
   <br>
-  
-  **Powering with:** 
-  `Zustand` • `Drizzle ORM` • `Zod` • `Prisma` • `React Query`
+
 </div>
 
 ![Top language](https://stats.pphat.top/languages?username=rust-spielberg)
