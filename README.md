@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Rust-spielberg&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&colour=FFFFFF&desc=Student+Dev&descSize=25&descAlign=34&descAlignY=62&colour=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Rust-spielberg&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&colour=FFFDD0&desc=Student+Dev&descSize=25&descAlign=34&descAlignY=62&colour=FFFDD0" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rust-spielberg">
