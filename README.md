@@ -59,7 +59,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sohan-parate-536972411/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8yyiH2NQcqjcF5ieuEhLA%3D%3D">
+  [![Linkedin](https://bentos.jkominovic.dev/api/v1/generic-card?icon=Rust&subtitle=Linkedin&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=Rust&subtitle=Linkedin&size=square)
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/RustSpielberg">
