@@ -56,7 +56,7 @@
 
 </div>
 
-![Top language](https://stats.pphat.top/languages?username=rust-spielberg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rust-spielberg&show_icons=true&locale=en&layout=compact" alt="rust-spielberg" /></p>
 <br/>
 
 ## 🔗 Connect with Me
