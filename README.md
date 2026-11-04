@@ -56,7 +56,11 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rust-spielberg&show_icons=true&locale=en&layout=compact" alt="rust-spielberg" /></p>
+<p align="center">
+  <a href="https://github.com/rust-spielberg">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rust-spielberg&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 <br/>
 
 ## 🔗 Connect with Me
