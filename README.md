@@ -56,7 +56,6 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rust-spielberg&theme=tokyonight)
 
 ## 🔗 Connect with Me
 
